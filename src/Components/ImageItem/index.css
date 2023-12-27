@@ -1,0 +1,16 @@
+.thumbnail-image-items {
+  border-radius: 8px;
+  margin-bottom: 5px;
+}
+.button2 {
+  outline: none;
+  cursor: pointer;
+  background-color: transparent;
+  border-width: 0;
+}
+.thumbnail-image {
+  height: 80px;
+  width: 80px;
+  object-fit: cover;
+  border-radius: 3px;
+}
